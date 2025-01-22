@@ -3,6 +3,7 @@
 ## 概要
 
 VRMMetaなどの設定をコピーするスクリプト
+
 他に、VRMFirstPerson、VRMLookAtHead、VRMSpringBone、VRMSpringBoneColliderGroupの設定もコピーします
 
 ## 使い方
